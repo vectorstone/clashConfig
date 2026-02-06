@@ -1,0 +1,2 @@
+# clashConfig
+clash custom config
